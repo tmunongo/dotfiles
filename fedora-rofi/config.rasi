@@ -1,0 +1,7 @@
+@theme "/usr/share/rofi/themes/glue_pro_blue.rasi"
+
+element {
+  orientation: horizontal;
+  children: [ element-icon, element-text ];
+  spacing: 12px;
+}
